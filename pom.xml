@@ -31,22 +31,7 @@
         </snapshotRepository>
     </distributionManagement>
     
- <distributionManagement>
-        <repository>
-            
-            <id>releases</id>
-            <name>maven-releases</name>
-            <url>http://127.0.0.1:8081/repository/maven-releases/</url>
-            
-        </repository>
-        <snapshotRepository>
-            
-            <id>snapshots</id>
-            <name>Snapshots</name>
-            <url>http://127.0.0.1:8081/#admin/</url>
-    
-        </snapshotRepository>
-    </distributionManagement>
+
 
 
     <dependencies>
