@@ -19,14 +19,14 @@
             <uniqueVersion>false</uniqueVersion>
             <id>TestWebApp_Repository</id>
             <name>TestWebApp Applications Repository Internal</name>
-            <url>file:///home/diego/.m2/repository</url>
+            <url>file:///jenkins/jobs/proyectogit2/workspace</url>
             <layout>default</layout>
         </repository>
         <snapshotRepository>
             <uniqueVersion>false</uniqueVersion>
             <id>TestWebApp_Repository</id>
             <name>TestWebApp Applications Repository Internal</name>
-            <url>file:///home/diego/.m2/repository</url>
+            <url>file:///jenkins/jobs/proyectogit2/workspace</url>
             <layout>default</layout>
         </snapshotRepository>
     </distributionManagement>
