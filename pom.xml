@@ -21,14 +21,11 @@
             <name>TestWebApp Applications Repository Internal</name>
             <url>file:///home/diego/.m2/repository</url>
             <layout>default</layout>
+            <id>maven-releases</id>
+            <url>http://127.0.0.1:8081/repository/maven-releases/</url>
         </repository>
            
-           
-            <repository>
-                       <id>maven-releases</id>
-                       <url>http://127.0.0.1:8081/repository/maven-releases/</url>
-                     </repository>
-           
+                     
            
         <snapshotRepository>
             <uniqueVersion>false</uniqueVersion>
